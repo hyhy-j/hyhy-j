@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyhy-j)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=cdcae2&height=120&section=header&text=Welcome%20to%20hyhy-j's%20Github&fontColor=7a7a7a&fontSize=60%)
