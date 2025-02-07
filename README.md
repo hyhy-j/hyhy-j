@@ -7,7 +7,7 @@
 | ----- | ------ | ----- | ----- |
 | MZ 세대를 위한 팝업스토어 정보 플랫폼 **Popplace** | 2024.07 | Html JS CSS | https://github.com/hyhy-j/2024-Herethon-5 |
 | 한의학 기반 맞춤형 건강 관리 서비스 **Hancare**| 2024.08 - 2024.09 | React | https://github.com/hyhy-j/Hanappun-Client |
-
-
+| 대학생 대상 개발 프로젝트 피드백 제공 및 AI 솔루션 서비스 **Prog**| 2024.11 | React | https://github.com/hyhy-j/prog-frontend |
+| 어린이를 위한 경제 지식 제공 및 퀴즈 서비스  **IMFINE**| 2024.11 | React | https://github.com/hyhy-j/IMFINE_client |
 
 
