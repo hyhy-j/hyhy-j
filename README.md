@@ -8,6 +8,6 @@
 | 한의학 기반 맞춤형 건강 관리 서비스 **Hancare**| 2024.08 - 2024.09 | React | https://github.com/hyhy-j/Hanappun-Client |
 | 대학생 대상 개발 프로젝트 피드백 제공 및 AI 솔루션 서비스 **Prog**| 2024.11 | React | https://github.com/hyhy-j/prog-frontend |
 | 어린이를 위한 경제 지식 제공 및 퀴즈 서비스  **IMFINE**| 2024.11 | React | https://github.com/hyhy-j/IMFINE_client |
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyhy-j&show_icons=true&theme=draqula)
+## My Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyhy-j&show_icons=true&theme=dark)
 
